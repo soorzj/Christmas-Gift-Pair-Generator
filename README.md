@@ -27,14 +27,6 @@ Easily organize randomized Christmas gift exchange pairs with a beautifully anim
 
 ---
 
-## Demo
-
-<img src="https://github.com/user-attachments/assets/5fe31468-a244-4ed9-a259-5ab6c8a3f201" width="300">
-<img src="https://github.com/user-attachments/assets/48a654f1-0e7b-4040-bc35-dc508c451876" width="300">
-<img src="https://github.com/user-attachments/assets/211cdefc-6dcc-454f-8466-7f8fa1c3ee32" height="300">
-
----
-
 ## Why You'll Love It
 
 - Fast and easy to use, no setup required.  
