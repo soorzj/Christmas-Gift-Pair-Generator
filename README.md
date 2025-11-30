@@ -1,4 +1,7 @@
-<img width="1770" height="105" alt="image" src="https://github.com/user-attachments/assets/7e1a6794-3403-445c-8f65-875aa9f0b230" />
+<a href="https://soorzj.github.io/Christmas-Gift-Pair-Generator/" target="_blank">
+  <img width="1770" height="105" alt="image" src="https://github.com/user-attachments/assets/7e1a6794-3403-445c-8f65-875aa9f0b230" />
+</a>
+
 
 
 
