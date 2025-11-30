@@ -4,7 +4,6 @@
 
 Easily organize randomized Christmas gift exchange pairs with a beautifully animated interface. Enter participant names or roll numbers and instantly generate fun, interactive pair cards. Perfect for classrooms, offices, or friends!
 
-
 ## Features
 
 - **Random Pair Generation** – Shuffle names in one click.
@@ -16,14 +15,11 @@ Easily organize randomized Christmas gift exchange pairs with a beautifully anim
 - **Beautiful UI** – Backdrop blur, gradients, and shadows create a holiday vibe.  
 - **Free and Open** – No cost, fully usable in any setting.  
 
-
 ## How to Use
 
 1. Enter participant **names** (comma or newline separated) or use **roll numbers**.  
 2. Click **Generate Pairs**.  
 3. Watch the pairs appear
-
-
 
 ## Why You'll Love It
 
@@ -31,8 +27,6 @@ Easily organize randomized Christmas gift exchange pairs with a beautifully anim
 - Perfect for classrooms, friends, or office Secret Santa events.  
 - Makes gift exchange visually fun and interactive.  
 
----
-
 ## License
 
-Free to use, modify, and share.
+Free to use, modify, and sharen or fork in your own repositiories.
